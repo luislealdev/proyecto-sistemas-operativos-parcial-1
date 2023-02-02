@@ -27,6 +27,7 @@ public class ListaDinamica {
                 aux.mostrar();
                 aux = aux.nodo_siguiente;
             }
+            aux.mostrar();
         }
     }
 }
